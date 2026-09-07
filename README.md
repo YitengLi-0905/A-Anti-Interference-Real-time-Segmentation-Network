@@ -27,7 +27,7 @@ This figure presents the design of the imaging and acquisition end for online de
 We are releasing the **Mandrel Surface Defect under Strong Industrial Interference (MSD-SII)** benchmark, the first industrial mandrel defect dataset collected under strong interference conditions[...[...]
 * **Complexity:** Includes severe defect-like interferences (e.g., water droplets, graphite contamination, oxide scale) to reflect real-world manufacturing challenges.
 
-🔗 **Dataset Download Link:** [[Insert your dataset link here, e.g., BaiduNetdisk / Google Drive]](https://zenodo.org/records/22605606)
+🔗 **Dataset Download Link:** https://zenodo.org/records/22605606
 
 ### Directory Structure
 After downloading the dataset, please organize it strictly according to the following structure:
