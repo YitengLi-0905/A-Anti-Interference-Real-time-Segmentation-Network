@@ -24,7 +24,7 @@ To address the aforementioned challenges, this study develops an automated detec
 This figure presents the design of the imaging and acquisition end for online detection. To ensure stable and high-quality acquisition results, the system adopts a uniform blue-light illumination subsystem, synchronized multi-camera line-scan imaging, and distributed cameras.
 
 ## 📊 MSD-SII Dataset & Preparation
-We are releasing the **Mandrel Surface Defect under Strong Industrial Interference (MSD-SII)** benchmark, the first industrial mandrel defect dataset collected under strong interference conditions[...[...]
+We are releasing the **Mandrel Surface Defect under Strong Industrial Interference (MSD-SII)** benchmark, the first industrial mandrel defect dataset collected under strong interference conditions.
 * **Complexity:** Includes severe defect-like interferences (e.g., water droplets, graphite contamination, oxide scale) to reflect real-world manufacturing challenges.
 
 🔗 **Dataset Download Link:** https://zenodo.org/records/22605606
