@@ -4,9 +4,9 @@ This repository contains the official PyTorch implementation and the **MSD-SII**
 > **An Edge-Based Online Mandrel Surface Defect Inspection System under Strong Industrial Interference**
 
 ## 🌟 Overview
-This repository provides the code and dataset for automated mandrel surface defect inspection. At its core lies the Anti-Interference Real-time Segmentation Network (**AIRSegNet**), tailored to rob[...]
+This repository provides the code and dataset for automated mandrel surface defect inspection. 
 
-Deployed on Jetson edge nodes, AIRSegNet achieves an inference speed of **371 FPS**, meeting real-time inspection demands, and attains a mean Intersection over Union (IoU) of **0.57** with an ultra[...]
+Deployed on Jetson edge nodes, AIRSegNet achieves an inference speed of **371 FPS**, meeting real-time inspection demands, and attains a mean Intersection over Union (IoU) of **0.57**.
 
 ## 🏗️ Framework
 The overall architecture of the proposed AIRSegNet is shown below:
